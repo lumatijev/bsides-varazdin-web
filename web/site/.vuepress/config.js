@@ -22,13 +22,13 @@ module.exports = {
       "meta",
       {
         property: "og:image",
-        content: "https://www.bsidesvarazdin.hr/static/img/logo.png",
+        content: "https://bsidesvarazdin.org/static/img/logo.png",
       },
     ],
     ["meta", { property: "og:image:type", content: "image/png" }],
     ["meta", { property: "og:image:width", content: "1200" }],
     ["meta", { property: "og:image:height", content: "754" }],
-    ["meta", { property: "og:url", content: "https://www.bsidesvarazdin.hr" }],
+    ["meta", { property: "og:url", content: "https://bsidesvarazdin.org" }],
     ["meta", { property: "og:title", content: "BSidesVarazdin" }],
     [
       "meta",

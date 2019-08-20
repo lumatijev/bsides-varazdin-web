@@ -19,7 +19,7 @@
   ],
   "author": "Luka Matijevic <lumatijev@gmail.com>",
   "license": "MIT",
-  "homepage": "https://www.bsidesvarazdin.hr",
+  "homepage": "https://bsidesvarazdin.org",
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
